@@ -1,4 +1,4 @@
-# Anonymous codebase for the paper "Utilizing Metadata for Better Retrieval-Augmented Generation"
+# Codebase and Dataset for the ECIR 2026 paper "Utilizing Metadata for Better Retrieval-Augmented Generation" 
 
 ## Install a new conda environment using the following:
 Note that we are using python=3.10.0 for now.
