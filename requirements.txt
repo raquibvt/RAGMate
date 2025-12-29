@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+langchain
+langchain-community
+langchain-openai
+huggingface_hub
+accelerate
+sentence-transformers
+chromadb
+openai
+fuzzywuzzy
+python-dotenv
+matplotlib

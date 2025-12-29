@@ -1,0 +1,28 @@
+# --- Chunking Parameters ---
+input_document_dir: "preprocessed_10K_samples"   # Where raw documents are stored
+chunked_document_dir: "./own_chunked_350_tik"    # Where chunked files will be saved
+
+chunk_size: 350
+chunk_overlap: 50
+
+# --- Embedding Parameters ---
+tokenizer_model: "text-embedding-3-small"   # Use OpenAI/tiktoken tokenizer
+embedding_model: "text-embedding-3-small"   # Use the same OpenAI model for embeddings
+
+# --- ChromaDB Settings ---
+use_metadata: true
+metadata_position: "top"   # Options: "top" or "top" or "middle"
+id_suffix: "openai_embed"
+
+chroma_persist_directory: "./10k_meta_top_350_openai_chroma"
+collection_name: "10k_meta_top_350"
+indexing_batch_size: 200
+
+delete_existing: true
+allow_reset: true
+
+# --- Retrieval Parameters ---
+top_k: 100
+output_dir: "./retrieval_results_10k_meta_top_350_openai_chroma"
+top_k_rag: 10
+rag_ques_file: "./questions_with_meta.json"

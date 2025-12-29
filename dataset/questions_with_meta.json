@@ -1,0 +1,228 @@
+{
+  "general": {
+    "GOOGL": {
+      "company_name": "Alphabet Inc.",
+      "year": 2024,
+      "questions": [
+        "Summarize the business overview of Alphabet Inc. from their 2024 Form 10-K filing.",
+        "What new products, services, or business initiatives did Alphabet Inc. announce during their fiscal year ending 12-31?",
+        "What are the key macroeconomic and industry risks that Alphabet Inc. disclosed in their 2024 10-K Risk Factors section?",
+        "According to Alphabet Inc.'s 2024 10-K, what cybersecurity risks have been highlighted for the fiscal year?",
+        "How did Alphabet Inc.'s gross margins for Products and Services change in 2024 compared to 2023?",
+        "What were the primary drivers behind changes in regional net sales (Americas, Europe, Greater China, etc.) for Alphabet Inc. during the 2024 fiscal year?",
+        "What significant legal proceedings and government investigations involving Alphabet Inc. were disclosed in the 2024 10-K?",
+        "Describe the regulatory compliance challenges, including data privacy and antitrust issues, faced by Alphabet Inc. as reported in their 2024 annual filing.",
+        "How many shares of common stock were outstanding for Alphabet Inc. as of the date of their 2024 Form 10-K filing?",
+        "Summarize the share repurchase activity and dividend changes announced by Alphabet Inc. during the 2024 fiscal year.",
+        "What workforce diversity, inclusion, and human capital management initiatives did Alphabet Inc. report in their 2024 10-K?",
+        "Based on Alphabet Inc.'s 2024 10-K, what are the company's stated competitive advantages and long-term growth strategies?",
+        "What reasons did Alphabet Inc. provide for fluctuations in their effective tax rate during the 2024 fiscal year?",
+        "How did interest rate and foreign exchange risks affect Alphabet Inc.'s 2024 financial results, according to their 10-K?",
+        "Summarize the liquidity position of Alphabet Inc., including their cash reserves and commercial paper/debt obligations at the end of the 2024 reporting period."
+      ]
+    },
+    "ADBE": {
+      "company_name": "ADOBE INC.",
+      "year": 2024,
+      "questions": [
+        "Summarize the business overview of ADOBE INC. from their 2024 Form 10-K filing.",
+        "What new products, services, or business initiatives did ADOBE INC. announce during their fiscal year ending 12-01?",
+        "What are the key macroeconomic and industry risks that ADOBE INC. disclosed in their 2024 10-K Risk Factors section?",
+        "According to ADOBE INC.'s 2024 10-K, what cybersecurity risks have been highlighted for the fiscal year?",
+        "How did ADOBE INC.'s gross margins for Products and Services change in 2024 compared to 2023?",
+        "What were the primary drivers behind changes in regional net sales (Americas, Europe, Greater China, etc.) for ADOBE INC. during the 2024 fiscal year?",
+        "What significant legal proceedings and government investigations involving ADOBE INC. were disclosed in the 2024 10-K?",
+        "Describe the regulatory compliance challenges, including data privacy and antitrust issues, faced by ADOBE INC. as reported in their 2024 annual filing.",
+        "How many shares of common stock were outstanding for ADOBE INC. as of the date of their 2024 Form 10-K filing?",
+        "Summarize the share repurchase activity and dividend changes announced by ADOBE INC. during the 2024 fiscal year.",
+        "What workforce diversity, inclusion, and human capital management initiatives did ADOBE INC. report in their 2024 10-K?",
+        "Based on ADOBE INC.'s 2024 10-K, what are the company's stated competitive advantages and long-term growth strategies?",
+        "What reasons did ADOBE INC. provide for fluctuations in their effective tax rate during the 2024 fiscal year?",
+        "How did interest rate and foreign exchange risks affect ADOBE INC.'s 2024 financial results, according to their 10-K?",
+        "Summarize the liquidity position of ADOBE INC., including their cash reserves and commercial paper/debt obligations at the end of the 2024 reporting period."
+      ]
+    },
+    "ORCL": {
+      "company_name": "ORACLE CORP",
+      "year": 2024,
+      "questions": [
+        "Summarize the business overview of ORACLE CORP from their 2024 Form 10-K filing.",
+        "What new products, services, or business initiatives did ORACLE CORP announce during their fiscal year ending 05-31?",
+        "What are the key macroeconomic and industry risks that ORACLE CORP disclosed in their 2024 10-K Risk Factors section?",
+        "According to ORACLE CORP's 2024 10-K, what cybersecurity risks have been highlighted for the fiscal year?",
+        "How did ORACLE CORP's gross margins for Products and Services change in 2024 compared to 2023?",
+        "What were the primary drivers behind changes in regional net sales (Americas, Europe, Greater China, etc.) for ORACLE CORP during the 2024 fiscal year?",
+        "What significant legal proceedings and government investigations involving ORACLE CORP were disclosed in the 2024 10-K?",
+        "Describe the regulatory compliance challenges, including data privacy and antitrust issues, faced by ORACLE CORP as reported in their 2024 annual filing.",
+        "How many shares of common stock were outstanding for ORACLE CORP as of the date of their 2024 Form 10-K filing?",
+        "Summarize the share repurchase activity and dividend changes announced by ORACLE CORP during the 2024 fiscal year.",
+        "What workforce diversity, inclusion, and human capital management initiatives did ORACLE CORP report in their 2024 10-K?",
+        "Based on ORACLE CORP's 2024 10-K, what are the company's stated competitive advantages and long-term growth strategies?",
+        "What reasons did ORACLE CORP provide for fluctuations in their effective tax rate during the 2024 fiscal year?",
+        "How did interest rate and foreign exchange risks affect ORACLE CORP's 2024 financial results, according to their 10-K?",
+        "Summarize the liquidity position of ORACLE CORP, including their cash reserves and commercial paper/debt obligations at the end of the 2024 reporting period."
+      ]
+    },
+    "NVDA": {
+      "company_name": "NVIDIA CORP",
+      "year": 2024,
+      "questions": [
+        "Summarize the business overview of NVIDIA CORP from their 2024 Form 10-K filing.",
+        "What new products, services, or business initiatives did NVIDIA CORP announce during their fiscal year ending 01-28?",
+        "What are the key macroeconomic and industry risks that NVIDIA CORP disclosed in their 2024 10-K Risk Factors section?",
+        "According to NVIDIA CORP's 2024 10-K, what cybersecurity risks have been highlighted for the fiscal year?",
+        "How did NVIDIA CORP's gross margins for Products and Services change in 2024 compared to 2023?",
+        "What were the primary drivers behind changes in regional net sales (Americas, Europe, Greater China, etc.) for NVIDIA CORP during the 2024 fiscal year?",
+        "What significant legal proceedings and government investigations involving NVIDIA CORP were disclosed in the 2024 10-K?",
+        "Describe the regulatory compliance challenges, including data privacy and antitrust issues, faced by NVIDIA CORP as reported in their 2024 annual filing.",
+        "How many shares of common stock were outstanding for NVIDIA CORP as of the date of their 2024 Form 10-K filing?",
+        "Summarize the share repurchase activity and dividend changes announced by NVIDIA CORP during the 2024 fiscal year.",
+        "What workforce diversity, inclusion, and human capital management initiatives did NVIDIA CORP report in their 2024 10-K?",
+        "Based on NVIDIA CORP's 2024 10-K, what are the company's stated competitive advantages and long-term growth strategies?",
+        "What reasons did NVIDIA CORP provide for fluctuations in their effective tax rate during the 2024 fiscal year?",
+        "How did interest rate and foreign exchange risks affect NVIDIA CORP's 2024 financial results, according to their 10-K?",
+        "Summarize the liquidity position of NVIDIA CORP, including their cash reserves and commercial paper/debt obligations at the end of the 2024 reporting period."
+      ]
+    }
+  },
+  "deeper": {
+    "GOOGL": {
+      "company_name": "Alphabet Inc.",
+      "year": 2024,
+      "questions": [
+        "How did Alphabet Inc.'s regional revenue performance vary across Americas, Europe, Greater China, Japan, and Rest of Asia Pacific in the fiscal year ending 12-31?",
+        "Provide an analysis of Alphabet Inc.'s year-over-year change in operating expenses (R&D vs. SG&A) and their percentage of total net sales in 2024.",
+        "What major one-time events (such as litigation, tax settlements, or acquisitions) significantly impacted Alphabet Inc.'s financial statements for the 2024 period?",
+        "How did Alphabet Inc.'s hedging strategies mitigate (or fail to mitigate) the impact of foreign exchange rate movements on gross margin and operating income in 2024?",
+        "Assess Alphabet Inc.'s cash flow generation trends in 2024 compared to prior years based on their Statement of Cash Flows.",
+        "What factors were identified by Alphabet Inc. as contributing to volatility in future gross margins, according to their 2024 10-K?",
+        "Summarize Alphabet Inc.'s exposure to interest rate risk and provide the estimated financial impact of a 100 basis point change as of 2024.",
+        "What future capital commitments, lease obligations, and debt maturities does Alphabet Inc. report as of the 2024 fiscal year end?",
+        "How did Alphabet Inc.'s share-based compensation and restricted stock unit (RSU) programs affect their operating expenses and shareholder equity in 2024?",
+        "Analyze Alphabet Inc.'s effective tax rate variance by comparing domestic versus foreign income tax obligations as reported in their 2024 10-K.",
+        "Based on the 2024 10-K, how has Alphabet Inc. addressed regulatory scrutiny related to competition and platform governance?",
+        "Describe how Alphabet Inc. discusses concentrations of supply risk or manufacturing dependencies in their 2024 supply chain disclosures.",
+        "What contingent liabilities or pending legal matters could materially affect Alphabet Inc.'s financial condition, according to their 2024 disclosures?",
+        "How has Alphabet Inc. adjusted its capital return strategy (buybacks, dividends) over the past three fiscal years ending in 2024?",
+        "Critically assess the auditor\u2019s identified critical audit matters (CAMs) for Alphabet Inc. in 2024 and their implications for investors."
+      ]
+    },
+    "ADBE": {
+      "company_name": "ADOBE INC.",
+      "year": 2024,
+      "questions": [
+        "How did ADOBE INC.'s regional revenue performance vary across Americas, Europe, Greater China, Japan, and Rest of Asia Pacific in the fiscal year ending 12-01?",
+        "Provide an analysis of ADOBE INC.'s year-over-year change in operating expenses (R&D vs. SG&A) and their percentage of total net sales in 2024.",
+        "What major one-time events (such as litigation, tax settlements, or acquisitions) significantly impacted ADOBE INC.'s financial statements for the 2024 period?",
+        "How did ADOBE INC.'s hedging strategies mitigate (or fail to mitigate) the impact of foreign exchange rate movements on gross margin and operating income in 2024?",
+        "Assess ADOBE INC.'s cash flow generation trends in 2024 compared to prior years based on their Statement of Cash Flows.",
+        "What factors were identified by ADOBE INC. as contributing to volatility in future gross margins, according to their 2024 10-K?",
+        "Summarize ADOBE INC.'s exposure to interest rate risk and provide the estimated financial impact of a 100 basis point change as of 2024.",
+        "What future capital commitments, lease obligations, and debt maturities does ADOBE INC. report as of the 2024 fiscal year end?",
+        "How did ADOBE INC.'s share-based compensation and restricted stock unit (RSU) programs affect their operating expenses and shareholder equity in 2024?",
+        "Analyze ADOBE INC.'s effective tax rate variance by comparing domestic versus foreign income tax obligations as reported in their 2024 10-K.",
+        "Based on the 2024 10-K, how has ADOBE INC. addressed regulatory scrutiny related to competition and platform governance?",
+        "Describe how ADOBE INC. discusses concentrations of supply risk or manufacturing dependencies in their 2024 supply chain disclosures.",
+        "What contingent liabilities or pending legal matters could materially affect ADOBE INC.'s financial condition, according to their 2024 disclosures?",
+        "How has ADOBE INC. adjusted its capital return strategy (buybacks, dividends) over the past three fiscal years ending in 2024?",
+        "Critically assess the auditor\u2019s identified critical audit matters (CAMs) for ADOBE INC. in 2024 and their implications for investors."
+      ]
+    },
+    "ORCL": {
+      "company_name": "ORACLE CORP",
+      "year": 2024,
+      "questions": [
+        "How did ORACLE CORP's regional revenue performance vary across Americas, Europe, Greater China, Japan, and Rest of Asia Pacific in the fiscal year ending 05-31?",
+        "Provide an analysis of ORACLE CORP's year-over-year change in operating expenses (R&D vs. SG&A) and their percentage of total net sales in 2024.",
+        "What major one-time events (such as litigation, tax settlements, or acquisitions) significantly impacted ORACLE CORP's financial statements for the 2024 period?",
+        "How did ORACLE CORP's hedging strategies mitigate (or fail to mitigate) the impact of foreign exchange rate movements on gross margin and operating income in 2024?",
+        "Assess ORACLE CORP's cash flow generation trends in 2024 compared to prior years based on their Statement of Cash Flows.",
+        "What factors were identified by ORACLE CORP as contributing to volatility in future gross margins, according to their 2024 10-K?",
+        "Summarize ORACLE CORP's exposure to interest rate risk and provide the estimated financial impact of a 100 basis point change as of 2024.",
+        "What future capital commitments, lease obligations, and debt maturities does ORACLE CORP report as of the 2024 fiscal year end?",
+        "How did ORACLE CORP's share-based compensation and restricted stock unit (RSU) programs affect their operating expenses and shareholder equity in 2024?",
+        "Analyze ORACLE CORP's effective tax rate variance by comparing domestic versus foreign income tax obligations as reported in their 2024 10-K.",
+        "Based on the 2024 10-K, how has ORACLE CORP addressed regulatory scrutiny related to competition and platform governance?",
+        "Describe how ORACLE CORP discusses concentrations of supply risk or manufacturing dependencies in their 2024 supply chain disclosures.",
+        "What contingent liabilities or pending legal matters could materially affect ORACLE CORP's financial condition, according to their 2024 disclosures?",
+        "How has ORACLE CORP adjusted its capital return strategy (buybacks, dividends) over the past three fiscal years ending in 2024?",
+        "Critically assess the auditor\u2019s identified critical audit matters (CAMs) for ORACLE CORP in 2024 and their implications for investors."
+      ]
+    },
+    "NVDA": {
+      "company_name": "NVIDIA CORP",
+      "year": 2024,
+      "questions": [
+        "How did NVIDIA CORP's regional revenue performance vary across Americas, Europe, Greater China, Japan, and Rest of Asia Pacific in the fiscal year ending 01-28?",
+        "Provide an analysis of NVIDIA CORP's year-over-year change in operating expenses (R&D vs. SG&A) and their percentage of total net sales in 2024.",
+        "What major one-time events (such as litigation, tax settlements, or acquisitions) significantly impacted NVIDIA CORP's financial statements for the 2024 period?",
+        "How did NVIDIA CORP's hedging strategies mitigate (or fail to mitigate) the impact of foreign exchange rate movements on gross margin and operating income in 2024?",
+        "Assess NVIDIA CORP's cash flow generation trends in 2024 compared to prior years based on their Statement of Cash Flows.",
+        "What factors were identified by NVIDIA CORP as contributing to volatility in future gross margins, according to their 2024 10-K?",
+        "Summarize NVIDIA CORP's exposure to interest rate risk and provide the estimated financial impact of a 100 basis point change as of 2024.",
+        "What future capital commitments, lease obligations, and debt maturities does NVIDIA CORP report as of the 2024 fiscal year end?",
+        "How did NVIDIA CORP's share-based compensation and restricted stock unit (RSU) programs affect their operating expenses and shareholder equity in 2024?",
+        "Analyze NVIDIA CORP's effective tax rate variance by comparing domestic versus foreign income tax obligations as reported in their 2024 10-K.",
+        "Based on the 2024 10-K, how has NVIDIA CORP addressed regulatory scrutiny related to competition and platform governance?",
+        "Describe how NVIDIA CORP discusses concentrations of supply risk or manufacturing dependencies in their 2024 supply chain disclosures.",
+        "What contingent liabilities or pending legal matters could materially affect NVIDIA CORP's financial condition, according to their 2024 disclosures?",
+        "How has NVIDIA CORP adjusted its capital return strategy (buybacks, dividends) over the past three fiscal years ending in 2024?",
+        "Critically assess the auditor\u2019s identified critical audit matters (CAMs) for NVIDIA CORP in 2024 and their implications for investors."
+      ]
+    }
+  },
+  "evolution": {
+    "GOOGL": {
+      "company_name": "Alphabet Inc.",
+      "year": 2024,
+      "questions": [
+        "How have the drivers of Alphabet Inc.'s revenue growth or decline evolved between 2020 and 2024, and what internal or external factors contributed most to these changes?",
+        "Evaluate how Alphabet Inc.'s R&D and SG&A spending priorities shifted between 2020 and 2024, and explain what these shifts reveal about their strategic focus.",
+        "Compare the risk factors highlighted by Alphabet Inc. from 2020 to 2024 \u2014 which new systemic risks emerged, and which historical risks became less significant?",
+        "Assess how Alphabet Inc.'s capital return strategies, including share repurchases and dividend policies, adapted to market conditions between 2020 and 2024.",
+        "Analyze the geographical distribution of Alphabet Inc.'s revenue (e.g., Greater China, Europe, Americas) over the period 2020 to 2024, identifying regions of accelerated growth or decline and possible macroeconomic drivers.",
+        "Examine the changes in Alphabet Inc.'s gross margin trends across 2020 to 2024, and evaluate whether product mix, supply chain costs, or currency fluctuations played a larger role in margin volatility.",
+        "Identify and analyze the evolution of Alphabet Inc.'s major legal, antitrust, or regulatory exposures from 2020 through 2024, and discuss how the company's risk mitigation efforts have adapted over time."
+      ]
+    },
+    "ADBE": {
+      "company_name": "ADOBE INC.",
+      "year": 2024,
+      "questions": [
+        "How have the drivers of ADOBE INC.'s revenue growth or decline evolved between 2020 and 2024, and what internal or external factors contributed most to these changes?",
+        "Evaluate how ADOBE INC.'s R&D and SG&A spending priorities shifted between 2020 and 2024, and explain what these shifts reveal about their strategic focus.",
+        "Compare the risk factors highlighted by ADOBE INC. from 2020 to 2024 \u2014 which new systemic risks emerged, and which historical risks became less significant?",
+        "Assess how ADOBE INC.'s capital return strategies, including share repurchases and dividend policies, adapted to market conditions between 2020 and 2024.",
+        "Analyze the geographical distribution of ADOBE INC.'s revenue (e.g., Greater China, Europe, Americas) over the period 2020 to 2024, identifying regions of accelerated growth or decline and possible macroeconomic drivers.",
+        "Examine the changes in ADOBE INC.'s gross margin trends across 2020 to 2024, and evaluate whether product mix, supply chain costs, or currency fluctuations played a larger role in margin volatility.",
+        "Identify and analyze the evolution of ADOBE INC.'s major legal, antitrust, or regulatory exposures from 2020 through 2024, and discuss how the company's risk mitigation efforts have adapted over time."
+      ]
+    },
+    "ORCL": {
+      "company_name": "ORACLE CORP",
+      "year": 2024,
+      "questions": [
+        "How have the drivers of ORACLE CORP's revenue growth or decline evolved between 2020 and 2024, and what internal or external factors contributed most to these changes?",
+        "Evaluate how ORACLE CORP's R&D and SG&A spending priorities shifted between 2020 and 2024, and explain what these shifts reveal about their strategic focus.",
+        "Compare the risk factors highlighted by ORACLE CORP from 2020 to 2024 \u2014 which new systemic risks emerged, and which historical risks became less significant?",
+        "Assess how ORACLE CORP's capital return strategies, including share repurchases and dividend policies, adapted to market conditions between 2020 and 2024.",
+        "Analyze the geographical distribution of ORACLE CORP's revenue (e.g., Greater China, Europe, Americas) over the period 2020 to 2024, identifying regions of accelerated growth or decline and possible macroeconomic drivers.",
+        "Examine the changes in ORACLE CORP's gross margin trends across 2020 to 2024, and evaluate whether product mix, supply chain costs, or currency fluctuations played a larger role in margin volatility.",
+        "Identify and analyze the evolution of ORACLE CORP's major legal, antitrust, or regulatory exposures from 2020 through 2024, and discuss how the company's risk mitigation efforts have adapted over time."
+      ]
+    },
+    "NVDA": {
+      "company_name": "NVIDIA CORP",
+      "year": 2024,
+      "questions": [
+        "How have the drivers of NVIDIA CORP's revenue growth or decline evolved between 2020 and 2024, and what internal or external factors contributed most to these changes?",
+        "Evaluate how NVIDIA CORP's R&D and SG&A spending priorities shifted between 2020 and 2024, and explain what these shifts reveal about their strategic focus.",
+        "Compare the risk factors highlighted by NVIDIA CORP from 2020 to 2024 \u2014 which new systemic risks emerged, and which historical risks became less significant?",
+        "Assess how NVIDIA CORP's capital return strategies, including share repurchases and dividend policies, adapted to market conditions between 2020 and 2024.",
+        "Analyze the geographical distribution of NVIDIA CORP's revenue (e.g., Greater China, Europe, Americas) over the period 2020 to 2024, identifying regions of accelerated growth or decline and possible macroeconomic drivers.",
+        "Examine the changes in NVIDIA CORP's gross margin trends across 2020 to 2024, and evaluate whether product mix, supply chain costs, or currency fluctuations played a larger role in margin volatility.",
+        "Identify and analyze the evolution of NVIDIA CORP's major legal, antitrust, or regulatory exposures from 2020 through 2024, and discuss how the company's risk mitigation efforts have adapted over time."
+      ]
+    }
+  }
+}
